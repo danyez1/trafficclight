@@ -10,3 +10,27 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.trafficc-Light{
+    background-color: black;
+    display:inline-block;
+    padding: -5px;
+    border-radius: 5%;
+}
+.Light{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: rgb(5, 5, 5);
+}
+.Red{
+    background-color: red;
+}
+.Yellow{
+    background-color: rgb(255, 251, 0);
+}
+.Green{
+    background-color: rgb(10, 160, 43);
+}
+.Glow{
+    box-shadow: 0px 0px 9px 4px rgb(179, 158, 179);
+}
